@@ -71,3 +71,18 @@ O sistema utiliza uma base de taxas de câmbio armazenadas no JavaScript.
 <img src="https://github.com/Dev-IgorA/Projeto-Conversor-Moedas-Universal-Completo/blob/master/Assets/Img-Projeto-3.png?raw=true"/>
 <br>
 <img src="https://github.com/Dev-IgorA/Projeto-Conversor-Moedas-Universal-Completo/blob/master/Assets/Img-Projeto-4.png?raw=true"/>
+<br>
+
+## 📚 Objetivo do Projeto
+
+Este projeto foi desenvolvido com finalidade educacional para reforçar conhecimentos em:
+
+- Desenvolvimento Front-End
+- JavaScript
+- Lógica de programação
+- Manipulação do DOM
+<br>
+
+## 👨‍💻 Autor
+Dev. Igor Andrade
+  
