@@ -2,7 +2,7 @@
 <br>
 > Conversor de moedas completo desenvolvido com HTML, CSS e JavaScript.
 <br>
----
+
 
 ## 📌 SOBRE O PROJETO
 <br>
@@ -12,7 +12,7 @@ Diferente de um conversor simples, este projeto permite converter **qualquer moe
 O projeto foi desenvolvido com foco na consolidação de conhecimentos em desenvolvimento front-end, utilizando apenas tecnologias base, sem frameworks ou bibliotecas externas. 
 </p>
 <br>
----
+
 ## FUNCIONALIDADES 🎯
 <br>
 
@@ -38,7 +38,7 @@ O projeto foi desenvolvido com foco na consolidação de conhecimentos em desenv
 ✔ Interface simples e intuitiva  
 <br>
 
-----
+
 ## TECNOLOGIAS UTILIZADAS 🛠
 
 - 🧱 HTML5
