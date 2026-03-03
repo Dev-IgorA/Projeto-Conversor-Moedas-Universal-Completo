@@ -1,8 +1,9 @@
-<h1> # 💰 CONVERT MONEY - COMPLETE</h1>
+ ## 💰 CONVERT MONEY - COMPLETE
 <br>
 > Conversor de moedas completo desenvolvido com HTML, CSS e JavaScript.
 <br>
 ---
+
 ## 📌 SOBRE O PROJETO
 <br>
 <p>
