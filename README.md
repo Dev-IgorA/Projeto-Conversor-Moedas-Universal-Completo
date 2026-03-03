@@ -64,3 +64,10 @@ O sistema utiliza uma base de taxas de câmbio armazenadas no JavaScript.
 <br>
 
 ## 📸 Capturas de Tela
+<img src="https://github.com/Dev-IgorA/Projeto-Conversor-Moedas-Universal-Completo/blob/master/Assets/Img-Projeto-1.png?raw=true"/>
+<br>
+<img src="https://github.com/Dev-IgorA/Projeto-Conversor-Moedas-Universal-Completo/blob/master/Assets/Img-Projeto-2.png?raw=true"/>
+<br>
+<img src="https://github.com/Dev-IgorA/Projeto-Conversor-Moedas-Universal-Completo/blob/master/Assets/Img-Projeto-3.png?raw=true"/>
+<br>
+<img src="https://github.com/Dev-IgorA/Projeto-Conversor-Moedas-Universal-Completo/blob/master/Assets/Img-Projeto-4.png?raw=true"/>
