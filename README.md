@@ -1,6 +1,6 @@
  ## 💰 CONVERT MONEY - COMPLETE
 <br>
-> Conversor de moedas completo desenvolvido com HTML, CSS e JavaScript.
+Conversor de moedas completo desenvolvido com HTML, CSS e JavaScript.
 <br>
 
 
